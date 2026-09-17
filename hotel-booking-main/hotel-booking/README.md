@@ -1,8 +1,8 @@
-# Terraform Database Reliability Assessment
+# Terraform Database Reliability 
 
 ## Overview
 
-This repository contains my solution for the **DevOps Assessment: Terraform + Database Reliability**.
+This repository contains my solution for the  Terraform + Database Reliability.
 
 The objective of this project is to demonstrate infrastructure design using Terraform, database administration skills, automation using shell scripts, and CI validation using GitHub Actions.
 
